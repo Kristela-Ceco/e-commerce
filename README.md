@@ -1,4 +1,3 @@
-Quick Start
 # Install dependencies for server
 npm install
 
